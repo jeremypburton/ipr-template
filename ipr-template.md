@@ -1,4 +1,4 @@
-# IPR Name
+# Interested Parties Review Name
 
 This template is compatible with the Decision Maker, Consulted and Informed (DCI) model and is provided to assist you when documenting an IPR. It provides standard sections we imagine are relevant to all IPRs, references to supporting assets to help with discovery, and pointers to help you along the way. We’d appreciate you trying it out and iterating on the format as the use of a templated layout will make data discovery easier to automate.
 
