@@ -2,15 +2,10 @@
 
 This template is compatible with the Decision Maker, Consulted and Informed (DCI) model and is provided to assist you when documenting an IPR. It provides standard sections we imagine are relevant to all IPRs, references to supporting assets to help with discovery, and pointers to help you along the way. We’d appreciate you trying it out and iterating on the format as the use of a templated layout will make data discovery easier to automate.
 
-A few reference implementations are:
-
--	[IPR: Systems Catalogue 2.0 Schema](https://garage.rea-group.com/documents/79742/ipr-systems-catalogue-2-0-schema)
--	[IPR: How will we power the new sales event experience for consumers?](https://garage.rea-group.com/documents/119985/ipr-how-will-we-power-the-new-sales-event-experience-for-consumers)
-
 Delete all informational parts when issuing your IPR.
 
 ---
-### Date & Location - e.g. 2pm 21st July, 2018 @ The Provincial
+### Date - e.g. 2pm 21st July, 2018 
 
 - Complete this before you hold the IPR so that interested parties can attend or request an invite.
 - Remember to announce in slack - #ipr-announce
@@ -43,14 +38,10 @@ List of interested parties. These are the people Consulted to ensure the proper 
 
 At a minimum this should include the teams but prefer a list of individuals.
 
-[Refer Interested Parties Directory](https://garage.rea-group.com/documents/79592/interested-parties-directory).
-
 ---
 ### Domains / Colab
 
-Highlights of the IPR decision from 20,000 feet e.g. PII, CI, Jetwire, Build Engineering
-
-Is there a product on [Colab Catalogue](https://garage.rea-group.com/documents/78978/colab-catalogue) that could be used? (YES/NO) Which one? If not document what's missing and add the product team as informed.
+Highlights of the IPR decision from 20,000 feet e.g. PII, CI, Platform, Tradie
 
 ---
 ### Informed
@@ -60,8 +51,8 @@ Who needs to hear about this decision as it progresses and once it's made? Peopl
 Consider:
 
 - Guilds
-- People in other LOBs that do similar things
-- Colab Product teams - especially if you believe that the existing product doesn't match the IPR needs
+- People in other teams that do similar things
+- Platform Product teams - especially if you believe that the existing product doesn't match the IPR needs
 
 ---
 ## Context
@@ -89,10 +80,9 @@ During the review be prepared to challenge the constraints and/or consider risk 
 ---
 ## Plan / Options
 
-Outline a number of available options and provide an assessment of the relevant trade-offs.
+Outline a number of available options and provide an assessment of the relevant trade-offs. Consider operational factors, privacy, SLAs, cost to build and maintain, disaster recovery, failure modes.
 
-This is traditionally provided as a list of pros and cons but can take any format that works. In addition to the original guidance provided ([Interested Parties Review](https://garage.rea-group.com/documents/65151/interested-parties-review)) ensure option consideration includes identification of risk. It is important to be clear on the level of risk individuals can accept on behalf of REA. Never hesitate to reach out to your local Security Advisor (refer: [Group Security Engagement with REA Teams](https://garage.rea-group.com/documents/44650/group-security-engagement-with-rea-teams)) who can provide context around our security policy ([REA Group Information Security Policy](https://garage.rea-group.com/documents/11313/rea-group-information-security-policy)). For wider risk management conversations, reach out to the [Global Risk & Assurance Team](https://garage.rea-group.com/sites/fabs-financial-services/global-risk-assurance).
-
+This is traditionally provided as a list of pros and cons but can take any format that works. Ensure option consideration includes identification of risk. 
 Note that you might be conducting an IPR to endorse a particular plan or approach - i.e. validating one path forward rather than choosing between options. In this case you would outline research that has led to this point.  The constraints etc section would also support that choice.
 
 ---
