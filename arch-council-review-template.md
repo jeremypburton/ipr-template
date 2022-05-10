@@ -8,7 +8,7 @@ Delete all informational parts when issuing your ACR.
 ### Date - e.g. 2pm 21st July, 2018 
 
 - Complete this before you hold the ACR so that interested parties can attend or request an invite.
-- Remember to announce in slack - #acr-announce
+- Remember to announce in slack - #architecture-council
 
 ---
 ### Summary
