@@ -18,7 +18,7 @@ Current members are:
 * Head of Data - Vincent Koc
 * Data Platform Technical Lead - Rukesh Kapuluru
 
-## When Should I Present to the Architecure Council?
+## When Should I Present to the Architecture Council?
 
 There's never a bad time. The Architecture Council exists to provide advice. Feel free to attend the helpdesk to ask questions, get feedback on your ideas, or generally listen in.
 
