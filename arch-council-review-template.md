@@ -86,6 +86,8 @@ Outline a number of available options and provide an assessment of the relevant 
 
 Diagrams are great in this section.
 
+You should also reference any documents such as the Tech Radar, [hipages Engineering Principles](https://hipagesgroup.atlassian.net/wiki/spaces/ENG/pages/1463451708/hipages+Engineering+Principles) and [Engineering Quality Manifesto](https://hipagesgroup.atlassian.net/wiki/spaces/ENG/pages/2210398250/Engineering+Quality+Manifesto) - talking about how solution options align to these or making a case for divergence.
+
 This is traditionally provided as a list of pros and cons but can take any format that works. Ensure option consideration includes identification of risk. 
 Note that you might be conducting an ACR to endorse a particular plan or approach - i.e. validating one path forward rather than choosing between options. In this case you would outline research that has led to this point.  The constraints etc section would also support that choice.
 
