@@ -44,7 +44,7 @@ All Engineers
 ---
 # Context
 
-On of the goals of performing Architecture Council Reviews is to socialise decisions, make them transparent, and enable discoverability of previous technical dicisions of significance with hipages. Its of no use having a bunch of these documents if they're not easy to find and aren't able to help our engineering team learn as they come about. As we encourage teams to formally document these decisions more and more, we want to be able to expose those decisions in the most appropriate place.
+One of the goals of performing Architecture Council Reviews is to socialise decisions, make them transparent, and enable discoverability of previous technical dicisions of significance with hipages. Its of no use having a bunch of these documents if they're not easy to find and aren't able to help our engineering team learn as they come about. As we encourage teams to formally document these decisions more and more, we want to be able to expose those decisions in the most appropriate place.
 
 We currently have a number of places where these could be exposed:
 * In Confluence using Confluence's markup
